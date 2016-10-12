@@ -1,0 +1,9 @@
+{
+  "name": "postcss-demo-gulp",
+  "dependencies": {
+    "gulp": "latest",
+    "gulp-postcss": "latest",
+    "postcss-cssnext": "latest",
+    "postcss-specificity-ratings": "git+ssh://git@github.com/amielperez/postcss-specificity-ratings.git"
+  }
+}
